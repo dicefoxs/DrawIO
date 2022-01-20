@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T10:03:18.100Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="847REuigo7lQPjWke4j2" version="16.4.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-20T10:06:02.007Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="3FPgq7iEOQTvBytUeIFp" version="16.4.2" type="github" pages="4">
   <diagram id="jvKPNjdnnmKybwGssosP" name="Page-1">
-    <mxGraphModel dx="1497" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="962" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,7 @@
         <mxCell id="XrI-w4eT_huVJNDsQDX--4" value="Register" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" parent="BhUuD0YtI2EGLgwca7hd-12" vertex="1">
           <mxGeometry x="200" y="160" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BhUuD0YtI2EGLgwca7hd-1" value="barang" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="BhUuD0YtI2EGLgwca7hd-12">
+        <mxCell id="BhUuD0YtI2EGLgwca7hd-1" value="hasil pencarian barang" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="BhUuD0YtI2EGLgwca7hd-12">
           <mxGeometry x="50" y="532" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BhUuD0YtI2EGLgwca7hd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BhUuD0YtI2EGLgwca7hd-12" source="BhUuD0YtI2EGLgwca7hd-6" target="BhUuD0YtI2EGLgwca7hd-10">
@@ -603,7 +603,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p-7RtKEj0b7DhkYN6UNy" name="Page-4">
-    <mxGraphModel dx="569" dy="320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="RiJMVX7ll7uDURPV0Cwo-0" />
         <mxCell id="RiJMVX7ll7uDURPV0Cwo-1" parent="RiJMVX7ll7uDURPV0Cwo-0" />
