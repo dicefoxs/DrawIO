@@ -1,12 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T05:38:06.818Z" agent="5.0 (X11)" etag="ahehAeCYvaYAEQorvUOi" version="16.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-20T06:10:48.214Z" agent="5.0 (X11)" etag="Y8BGCkrQb3espGocKm_2" version="16.4.2" type="github" pages="2">
   <diagram id="jvKPNjdnnmKybwGssosP" name="Page-1">
-    <mxGraphModel dx="920" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="E5_BOvUNd26cAFJuRAle-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="375" y="50" width="100" height="60" as="geometry" />
+        <mxCell id="XrI-w4eT_huVJNDsQDX--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E5_BOvUNd26cAFJuRAle-1" target="XrI-w4eT_huVJNDsQDX--3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="E5_BOvUNd26cAFJuRAle-1" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XrI-w4eT_huVJNDsQDX--1" value="&lt;div&gt;Login&lt;/div&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="364" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XrI-w4eT_huVJNDsQDX--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XrI-w4eT_huVJNDsQDX--3" target="XrI-w4eT_huVJNDsQDX--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XrI-w4eT_huVJNDsQDX--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XrI-w4eT_huVJNDsQDX--3" target="XrI-w4eT_huVJNDsQDX--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XrI-w4eT_huVJNDsQDX--3" value="Punya Akun?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XrI-w4eT_huVJNDsQDX--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XrI-w4eT_huVJNDsQDX--4" target="XrI-w4eT_huVJNDsQDX--1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XrI-w4eT_huVJNDsQDX--4" value="Register" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="550" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pXUpf4Mss1jOVb1dHpjh" name="Page-2">
+    <mxGraphModel dx="2031" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="wTLGTZsy0lD8wvmcB5D7-0" />
+        <mxCell id="wTLGTZsy0lD8wvmcB5D7-1" parent="wTLGTZsy0lD8wvmcB5D7-0" />
       </root>
     </mxGraphModel>
   </diagram>
